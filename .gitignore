@@ -2,6 +2,7 @@
 
 src/raw/BraTs/*
 src/out/npy/*
+src/out/image/*
 
 
 # Environments
