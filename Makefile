@@ -89,5 +89,8 @@ publish:
 %: # https://www.gnu.org/software/make/manual/make.html#Automatic-Variables 
 		@:
 
-make convert:
+convert:
 		$(PY) $(SRC)/convert.py
+
+to_nifti:
+		$(PY) $(SRC)/to_nifti.py

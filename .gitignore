@@ -3,7 +3,7 @@
 src/raw/BraTs/*
 src/out/npy/*
 src/out/image/*
-
+src/out/nifti/*
 
 # Environments
 .vscode
