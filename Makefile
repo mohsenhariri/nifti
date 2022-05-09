@@ -6,8 +6,8 @@ include .env.dev
 export
 
 SRC := src
-DIST := ./dist
-BUILD := ./build
+DIST := dist
+BUILD := build
 
 .PHONY: test all dev clean dev pyserve $(SRC) $(DIST) $(BUILD)
 

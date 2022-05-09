@@ -1,9 +1,9 @@
 # dataset
 
-src/raw/BraTs/*
-src/out/npy/*
-src/out/image/*
-src/out/nifti/*
+# src/raw/BraTs/*
+src/out/npy/*.npy
+src/out/image/*.png
+src/out/nifti/*.nii.gz
 
 # Environments
 .vscode
